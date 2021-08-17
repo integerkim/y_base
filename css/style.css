@@ -175,6 +175,11 @@ section {
 	font-family: 'Kameron', serif;
 	font-weight: 700;
 }
+.title-white {
+	font-family: 'Kameron', serif;
+	font-weight: 700;
+	color: #FFFFFF;
+}
 .titleHR {
 	background: none repeat scroll 0 0 #e1e1e1;
 	height: 3px;
@@ -316,10 +321,11 @@ nav.small {
 }
 .home__header-content h1{
 	font-family: 'Kameron', serif;
+	font-size: 48px;
 }
 .home__header-content p{
 	font-weight: 300;
-	font-size: 16px;
+	font-size: 18px;
 	margin-top: 20px;
 }
 .home__header-content a.btn-default {
@@ -328,7 +334,6 @@ nav.small {
 /*--- Carousel --*/
 #main-home-carousel .intro-title {
 	font-family: 'Kameron', serif;
-	font-size: 60px;
 }
 #main-home-carousel .intro-text {
 	color: #cacaca;
@@ -350,6 +355,11 @@ nav.small {
 	font-size: 16px;
 	margin-top: 20px;
 	text-transform: uppercase;
+}
+
+.services-item p{
+	font-weight: 300;
+	font-size: 16px;
 }
 
 /* 11 Twitter-tweets
